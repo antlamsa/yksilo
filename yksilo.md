@@ -1,5 +1,11 @@
-1. Ryhmätyössä tuli kirjotettua tekstiä sovelluksista ja päivitettyä duuniseurantaa.
+<h1>Yksilötehtävä</h1>
 
-2. Ryhmätyössä oppinu käyttämään Gittiä.
+<b>Antti Lämsä</b><br>
+<b>T42T19S</b>
+<br>
+<br>
+Ryhmätyössä tehtiin ryhmänä työ alusta loppuun. Ryhmätyön teossa osallistuin kaikkiin osa-alueisiin, duuniseurannan, liiketoiminnankuvauksen ja toolchainin kirjoittamiseen sekä tiedonhakuun. Ryhmässä oli kiva ja helppo työskennellä ja homma tapahtui ripeästi.
 
-3. HEHEHEHEhEHHEE
+<h2>Mitä opittu?</h2>
+<br>
+Ryhmätyön aikana tuli opittua käyttämään Git Bashia, GitHub Desktoppia, GitHub nettiversiota. sekä Bracketssia. Git Bashia käyttäessä tuli käytettyä ja samalla opittua käyttämään monenlaisia komentoja mm. git init, git pull, git add, git commit -m"", git push.
