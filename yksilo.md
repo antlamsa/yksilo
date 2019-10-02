@@ -2,4 +2,4 @@
 
 2. Ryhmätyössä oppinu käyttämään Gittiä.
 
-3. HEHEHEHE
+3. HEHEHEHEhEHHEE
